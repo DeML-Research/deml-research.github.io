@@ -12,4 +12,7 @@ nav_order: 2
 
 {% bibliography %}
 
+<!-- _pages/publications.md -->
+<div class="seminars & talks">
+
 </div>

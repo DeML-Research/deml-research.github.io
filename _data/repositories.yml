@@ -1,11 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - iffranciscome
 
 github_repos:
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - DeML-Research/Python-Project
+  - DeML-Research/OnExchange-Data
