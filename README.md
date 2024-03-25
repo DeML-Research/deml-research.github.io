@@ -1,3 +1,3 @@
 # DeML Research Group Page
 
-more basic content
+Repo for the github.io page for the DeML Research Group.
