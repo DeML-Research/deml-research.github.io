@@ -2,27 +2,33 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of the DeML Research Lab
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    content: about_francisco.md
+    image_circular: true
+    more_info: <p>franciscome@iteso.mx</p>
+  
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    content: about_benito.md
+    image_circular: true
+    more_info: <p>benito.rojas@iteso.mx</p>
+  
+  - align: right
+    image: prof_pic.jpg
+    content: about_diego.md
+    image_circular: true
+    more_info: <p>diego.arriaza@iteso.mx</p>
+  
+  - align: left
+    image: prof_pic.jpg
+    content: about_charly.md
+    image_circular: true
+    more_info: <p>cags@gmail.com</p>
+  
 ---
