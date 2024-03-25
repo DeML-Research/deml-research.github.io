@@ -1,4 +1,12 @@
 - title: "Module 1: Title"
 
-- date: 1/21
-  title: No class (MLK day)
+- date: 1/14
+  lecturer: Eric
+  title: <strong>Introduction to GM</strong>
+  slides: "https://google.com/"
+  annotated: "https://google.com/"
+  video: "https://google.com/"
+  notes: "https://google.com/"
+  readings:
+    - Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+  logistics:
