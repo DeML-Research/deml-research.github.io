@@ -1,0 +1,1 @@
+Financial Engineer (B.Eng) by ITESO, High Performance Computing (M.Sc) by University of Edimburg, 

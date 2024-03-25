@@ -1,0 +1,1 @@
+Research student in the DeML Research Group, working on Financial Machine Learning 
