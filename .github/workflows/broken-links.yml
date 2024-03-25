@@ -16,8 +16,6 @@ on:
       - "!.github/workflows/deploy-docker-tag.yml"
       - "!.github/workflows/deploy-image.yml"
       - "!.github/workflows/docker-slim.yml"
-      - "!.github/workflows/lighthouse-badger.yml"
-      - "!lighthouse_results/**"
   pull_request:
     branches:
       - master
@@ -33,8 +31,6 @@ on:
       - "!.github/workflows/deploy-docker-tag.yml"
       - "!.github/workflows/deploy-image.yml"
       - "!.github/workflows/docker-slim.yml"
-      - "!.github/workflows/lighthouse-badger.yml"
-      - "!lighthouse_results/**"
 
 jobs:
   link-checker:
