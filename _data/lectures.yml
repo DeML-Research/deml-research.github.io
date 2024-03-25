@@ -1,0 +1,30 @@
+- title: "Module 1: Title"
+
+- date: 1/14
+  lecturer: J.Francisco Munoz-Elguezabal
+  title: >
+    <strong>Strong title</strong>
+  slides: "https://google.com/"
+  annotated: "https://google.com/"
+  video: "https://google.com/"
+  notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    - Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    - E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 1/16
+  lecturer: Eric
+  title: >
+    <strong>Representation: Directed GMs (BNs)</strong>
+  slides: "https://drive.google.com/open?id=1pl_IeC4N11IUMAyJnPcT_HDLHBVfB4Qx"
+  annotated: "https://drive.google.com/open?id=1OLREY-CC8OIZfY_8G1lEdqzSMsNZXHTe"
+  video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=388ec3f4-de78-4f5e-b5ca-a9d001296630"
+  notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-02/"
+  readings:
+    - Jordan Textbook, <a href="https://people.eecs.berkeley.edu/~jordan/prelims/chapter2.pdf" target="_blank">Ch. 2</a> (Sec. 2.1)
+    - Koller and Friedman Textbook, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/readings/Ch%203.pdf" target="_blank">Ch. 3</a>
+  logistics:
+
+- date: 1/21
+  title: No class (MLK day)
