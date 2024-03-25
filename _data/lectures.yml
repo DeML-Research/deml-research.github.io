@@ -1,26 +1,4 @@
 - title: "Module 1: Title"
 
-- date: 1/14
-  lecturer: J.Francisco Munoz-Elguezabal
-  title: >
-    <strong>Strong title</strong>
-  slides: "https://google.com/"
-  annotated: "https://google.com/"
-  video: "https://google.com/"
-  notes: "https://google.com/"
-  readings:
-    - Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
-    - E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
-  logistics:
-
-- date: 1/16
-  lecturer: Eric
-  title: >
-    <strong>Representation: Directed GMs (BNs)</strong>
-  slides: "https://google.com/"
-  annotated: "https://google.com/"
-  video: "https://google.com/"
-  notes: "https://google.com/"
-
 - date: 1/21
   title: No class (MLK day)
