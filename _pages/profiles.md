@@ -12,29 +12,24 @@ profiles:
     image: profile_jfme.jpg
     content: about_francisco.md
     image_circular: false
-    more_info: >
-      <p>franciscome@iteso.mx</p>
-      <p>www.linkedin.com/in/iffranciscome/</p>
+    more_info: Head of research group
   
   - align: left
     image: prof_pic.jpg
     content: about_benito.md
     image_circular: false
-    more_info: >
-      <p>benito.rojas@iteso.mx</p>
+    more_info: Graph Machine Learning
   
   - align: right
     image: prof_pic.jpg
     content: about_diego.md
     image_circular: false
-    more_info: >
-      <p>diego.arriaza@iteso.mx</p>
+    more_info: Financial Machine Learning
   
   - align: left
     image: prof_pic.jpg
     content: about_charly.md
     image_circular: false
-    more_info: >
-      <p>cags@gmail.com</p>
+    more_info: Adjunct Applied Research
 
 ---
