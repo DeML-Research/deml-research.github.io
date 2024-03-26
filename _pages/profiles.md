@@ -2,17 +2,19 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Members of the DeML Research Lab
+description: Permament, graduate students, invited researchers and industry practitioners. All members of the DeML Research Lab
 nav: true
-nav_order: 7
+nav_order: 5
 
 profiles:
 
   - align: right
-    image: profile_me.jpg
+    image: profile_jfme.jpg
     content: about_francisco.md
     image_circular: false
-    more_info: <p>franciscome@iteso.mx</p>
+    more_info: >
+      <p>franciscome@iteso.mx</p>
+      <p>www.linkedin.com/in/iffranciscome/</p>
   
   - align: left
     image: prof_pic.jpg
