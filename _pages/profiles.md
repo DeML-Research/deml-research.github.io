@@ -7,11 +7,14 @@ nav: true
 nav_order: 7
 
 profiles:
+
   - align: right
-    image: prof_pic.jpg
+    image: profile_me.jpg
     content: about_francisco.md
     image_circular: false
-    more_info: <p>franciscome@iteso.mx</p>
+    more_info: >
+    <p> franciscome@iteso.mx </p>
+    <p> https://www.linkedin.com/in/iffranciscome/ </p>
   
   - align: left
     image: prof_pic.jpg
