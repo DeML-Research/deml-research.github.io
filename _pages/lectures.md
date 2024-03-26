@@ -11,7 +11,8 @@ nav_order: 4
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures %}
+# {% for item in site.data.lectures %}
+{% for item in data.lectures %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
