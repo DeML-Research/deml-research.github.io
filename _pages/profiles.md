@@ -14,17 +14,17 @@ profiles:
     image_circular: false
   
   - align: left
-    image: prof_pic.jpg
+    image: profile_einstein.png
     content: about_benito.md
     image_circular: false
   
   - align: right
-    image: prof_pic.jpg
+    image: profile_einstein.png
     content: about_diego.md
     image_circular: false
   
   - align: left
-    image: prof_pic.jpg
+    image: profile_einstein.png
     content: about_charly.md
     image_circular: false
 
