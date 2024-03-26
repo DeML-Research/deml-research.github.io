@@ -281,8 +281,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Munoz-Elguezabal]
-  first_name: [J.F.]
+  last_name: [Munoz-Elguezabal, Sanchez-Torres, Ruiz-Cruz]
+  first_name: [J.Francisco., Riemann, J.Diego]
 
   style: apa
   locale: en
