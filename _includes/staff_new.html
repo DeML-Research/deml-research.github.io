@@ -5,7 +5,8 @@
       <ul class="researcher-info">
         <li><span>Head Researcher</span> <a href="{{ researcher.url }}" target="_blank">{{ researcher.name }}</a></li>
         <li><span>Email:</span> <a href="mailto:{{ researcher.email | encode_email }}" target="_blank">{{ researcher.email }}</a></li>
-        <li><span>Office hours:</span> {{ researcher.office-hours }}</li>
+        <li><span>Research Topics:</span> {{ researcher.research-topics }}</li>
+        <li><span>Office Hours:</span> {{ researcher.office-hours }}</li>
       </ul>
     </div>
     {% endfor %}
@@ -16,9 +17,9 @@
       <a href="{{ student.url }}" target="_blank"><img src="{{ student.image | prepend: '/assets/img/' | relative_url }}" /></a>
       {% endif %}
       <ul class="student-info">
-        <li><span>Head GSI</span> <a href="{{ student.url }}" target="_blank">{{ student.name }}</a></li>
-        <li><span>Email:</span> <a href="mailto:{{ student.email | encode_email }}" target="_blank">{{ student.email }}</a></li>
-        <li><span>Office hours:</span> {{ student.office-hours }}</li>
+        <li><span>Student: </span> <a href="{{ student.url }}" target="_blank">{{ student.name }}</a></li>
+        <li><span>Email: </span> <a href="mailto:{{ student.email | encode_email }}" target="_blank">{{ student.email }}</a></li>
+        <li><span>Research Topics:</span> {{ student.research-topics }}</li>
       </ul>
     </div>
     {% endfor %}

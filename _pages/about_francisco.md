@@ -3,7 +3,7 @@
 - **Contact**: franciscome@iteso.mx
 - **LinkedIn**: [IFFranciscoME](https://www.linkedin.com/in/iffranciscome/)
 - **ORCID**: [0000-0003-0143-5797](https://orcid.org/my-orcid?orcid=0000-0003-0143-5797)
-- **Google Scholar**: [J.F. Munoz-Elguezaba](https://scholar.google.com/citations?user=YCYZYS0AAAAJ&hl=es)
+- **Google Scholar**: [J.F. Munoz-Elguezabal](https://scholar.google.com/citations?user=YCYZYS0AAAAJ&hl=es)
 
 Associate professor at both undergraduate and postgraduate levels in the Department of Mathematics and Physics. Recipient of awards such as: Best Research Poster (EPE-CIMAT), Applied Research Support Fund (NoBi-CONACYT), PSNA (ITESO). 
 
