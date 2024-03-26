@@ -6,7 +6,6 @@
         <li><span>Head Researcher</span> <a href="{{ researcher.url }}" target="_blank">{{ researcher.name }}</a></li>
         <li><span>Email:</span> <a href="mailto:{{ researcher.email | encode_email }}" target="_blank">{{ researcher.email }}</a></li>
         <li><span>Research Topics:</span> {{ researcher.research-topics }}</li>
-        <li><span>Office Hours:</span> {{ researcher.office-hours }}</li>
       </ul>
     </div>
     {% endfor %}
