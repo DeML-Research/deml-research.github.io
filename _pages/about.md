@@ -1,7 +1,7 @@
 ---
 layout: about_new
 permalink: /
-title: <b>D</b>ecentralized <b>M</b>achine <b>L</b>earning Research Group
+title: <b>De</b>centralized <b>M</b>achine <b>L</b>earning *Research Group*
 description: Mathematics & Physics Department • ITESO University
 logo: logo_iteso.png
 ---
