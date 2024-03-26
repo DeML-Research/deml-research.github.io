@@ -1,7 +1,7 @@
 <div class="researchers clearfix">
     {% for researcher in site.data.staff_new.Researchers %}
     <div class="researcher-profile-two-col">
-      <a href="{{ researcher.url }}" target="_blank"><img src="{{ researcher.image | prepend: '/assets/img/' | relative_url }}" /></a>
+      <a href="{{ researcher.url }}" target="_blank"><img src="{{ researcher.image | prepend: '/assets/img/people/' | relative_url }}" /></a>
       <ul class="researcher-info">
         <li><span>Head Researcher</span> <a href="{{ researcher.url }}" target="_blank">{{ researcher.name }}</a></li>
         <li><span>Email:</span> <a href="mailto:{{ researcher.email | encode_email }}" target="_blank">{{ researcher.email }}</a></li>
@@ -14,7 +14,7 @@
     {% for student in site.data.staff_new.Students %}
     <div class="student-profile-two-col">
       {% if student.image %}
-      <a href="{{ student.url }}" target="_blank"><img src="{{ student.image | prepend: '/assets/img/' | relative_url }}" /></a>
+      <a href="{{ student.url }}" target="_blank"><img src="{{ student.image | prepend: '/assets/img/people/' | relative_url }}" /></a>
       {% endif %}
       <ul class="student-info">
         <li><span>Student: </span> <a href="{{ student.url }}" target="_blank">{{ student.name }}</a></li>
