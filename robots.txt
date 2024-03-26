@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://deml-research.github.io/home//sitemap.xml
+Sitemap: https://deml-research.github.io/sitemap.xml
