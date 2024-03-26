@@ -1,16 +1,19 @@
 Researchers:
     - name: J.Francisco Munoz-Elguezabal
       email: franciscome@iteso.mx
+      url: https://linkedin.com/en/IFFranciscoME
       research-topics: Graph ML, Financial ML, Generative AI, DeFi.
       image: people/profile_jfme.png
     
 Students:
     - name: Benito Rojas
       email: benito.rojas@iteso.mx
+      url: https://linkedin.com
       research-topics: Graph Machine Learning, DeFi.
       image: people/profile_einstein.png
 
     - name: Diego Arriaza
       email: diego.arriaza@iteso.mx
+      url: https://linkedin.com
       research-topics: Financial Machine Learning, DeFi.
       image: people/profile_einstein.png

@@ -1,7 +1,7 @@
 ---
 layout: about_new
 permalink: /
-title: <b>De</b>centralized <b>M</b>achine <b>L</b>earning *Research Group*
+title: <b>DeML</b> Research Group
 description: Mathematics & Physics Department • ITESO University
 logo: logo_iteso.png
 ---
@@ -10,9 +10,7 @@ Many of the problems in artificial intelligence, statistics, computer systems, c
 
 ***
 
-- **researchgate**: (DeML-Lab)[https://www.researchgate.net/lab/DeML-Lab-Juan-Francisco-Munoz-Elguezabal]
-- **Location:** [Posner Hall 152](https://www.google.com/maps/place/Posner+Hall/@40.4424422,-79.9448675){:target="\_blank"}
-- **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
-- **HW submission:** [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}
+- **Research Gate:** [DeML-Lab](https://www.researchgate.net/lab/DeML-Lab-Juan-Francisco-Munoz-Elguezabal)
+- **Github:** [DeML-Research](https://github.com/DeML-Research){:target="\_blank"}
 
 ***
