@@ -16,19 +16,19 @@ profiles:
   
   - align: left
     url: https://www.linkedin.com/
-    image: profile_einstein.png
+    image: profile_benito.jpg
     content: about_benito.md
     image_circular: false
   
   - align: right
     url: https://www.linkedin.com/
-    image: profile_einstein.png
+    image: profile_diego.jpg
     content: about_diego.md
     image_circular: false
   
   - align: left
     url: https://www.linkedin.com/
-    image: profile_einstein.png
+    image: profile_charly.jpg
     content: about_charly.md
     image_circular: false
 
