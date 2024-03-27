@@ -1,6 +1,6 @@
 
 - **Role**: Graduate student
-- **Contact**: 
-- **LinkedIn**: 
+- **Contact**: [benito.rojas@iteso.mx](mailto:benito.rojas@iteso.mx)
+- **LinkedIn**: [benitorojas](https://www.linkedin.com/in/benitorojas/)
 
-Research Student in the DeML Research Group, working on Graph Machine Learning
+Research student in the DeML Research Group, working on Graph Machine Learning and DeFi.
