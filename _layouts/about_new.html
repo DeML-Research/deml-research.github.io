@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
+<div class="post">
 
-<div class="header-container">
-    <div class="logo-column">
-        <img class="logo" src="{{ page.logo | prepend: 'assets/img/'}}" style="width: 10%; height: 10%;">
-    </div>
-    <div class="text-column">
-        <h1 class="post-title">{{ page.title }}</h1>
-        <h2 class="post-description clearfix">{{ page.description }}</h2>
-    </div>
-  
+  <header class="post-header about">
+    <img class="logo" src="{{ page.logo | prepend: '/assets/img/' | relative_url }}">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h2 class="post-description clearfix">{{ page.description }}</h2>
+  </header>
+
+  <article class="post-content {{page.title}} clearfix">
+    {{ content }}
+  </article>
+
 </div>
