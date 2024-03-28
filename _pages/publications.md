@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications.
+description: Conference proceedings, Research Posters, Thesis and Conference Articles.
 nav: true
 nav_order: 2
 ---
