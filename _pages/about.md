@@ -1,5 +1,5 @@
 ---
-layout: about_new
+layout: about
 permalink: /
 title: <b>DeML</b> Research Group
 description: Mathematics & Physics Department • ITESO University
