@@ -1,23 +1,20 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
 "ICCESEN":
   url: https://iccesen.org
-  color: "#00369f"
+  color: "#A91101"
 
 "MICAI":
   url: https://micai.org
+  color: "#0069b0"
 
-"EcoSta":
+"ECOSTA":
   url: https://www.cmstatistics.org/
+  color: "#00427"
 
 "EPE2020":
   url: https://epe2020.eventos.cimat.mx/node/1424.html
+  color: "#00369f"
 
 "ITESO":
   url: https://iteso.mx
+  color: "#42b4e3"
   
