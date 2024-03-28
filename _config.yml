@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: DeML Research Group
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: DeML
+middle_name: 
+last_name: Research Group
 email: you@example.com
 description: Decentralized Machine Learning Research Group
 footer_text: Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -21,12 +21,12 @@ last_updated: true # set to true if you want to display last updated in the foot
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default    # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: default     # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default
+repo_theme_dark: default
 repo_trophies:
   enabled: false
-  theme_light: flat     # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+  theme_light: flat
+  theme_dark: gitdimmed
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -34,7 +34,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -297,8 +297,8 @@ scholar:
 
   bibtex_filters: [latex, smallcaps, superscript]
 
-  replace_strings: true
-  join_strings: true
+  replace_strings: false
+  join_strings: false
 
   details_dir: bibliography
   details_link: Details
@@ -310,8 +310,8 @@ scholar:
 # Display different badges withs stats for your publications
 enable_publication_badges:
   altmetric: false      # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: true      # Dimensions badge (https://badge.dimensions.ai/)
-  google_scholar: true  # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  dimensions: false      # Dimensions badge (https://badge.dimensions.ai/)
+  google_scholar: false  # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
