@@ -1,12 +1,18 @@
 
+"sanchez":
+  - last_name: ["Sanchez-Torres"]
+  - first_name: ["J.Diego"]
+
+"ruiz":
+  - last_name: ["Ruiz-Cruz"]
+  - first_name: ["Riemann"]
+
 "gutierrez":
-  - firstname: ["Carlos Alejandro", "C. A."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+  - last_name: ["Gutierrez-Sandoval"]
+  - first_name: ["Carlos A."]
 
 "rojas":
   - firstname: ["Benito Tonatiuh", "B. T."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
 "arriaza":
   - firstname: ["Diego", "D."]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
