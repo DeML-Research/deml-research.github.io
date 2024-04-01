@@ -8,13 +8,21 @@ layout: default
 
     <style>
       .logo-column {
-        float: left;
-        width: 20%; 
-      }
+                float: left;
+                width: 30%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+        }
     
       .text-column {
-        margin-left: 20%; 
-      }
+          margin-left: 20%;
+          width: 50%; /* Adjust as needed */
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+
     </style>
 
     <div class="logo-column">
@@ -22,16 +30,16 @@ layout: default
     </div>
     
     <div class="text-column"></div>
-      <h1 class="post-title">{{ page.title }}</h1>
-      <h2 class="post-description clearfix">{{ page.description }}</h2>
+      <h1 class="post-title">{{ page.title }} </h1>
+      <h2 class="post-description clearfix">{{ page.description }} </h2>
     </div>
 
   </header>
-  
-  <div class="page-content">
-    <div class="wrapper">
-      {{ content }}
-    </div>
-  </div>
 
+</div>
+
+<div class="page-content">
+    <div class="wrapper">
+        {{ content }}
+    </div>
 </div>
