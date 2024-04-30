@@ -24,7 +24,7 @@ profiles:
   
   - align: right
     url: https://www.linkedin.com/
-    image: profile_diego.jpg
+    image: profile_diego.png
     content: about_diego.md
     image_circular: false
     more_info: Diego Arriaza
